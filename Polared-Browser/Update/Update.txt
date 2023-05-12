@@ -3,7 +3,7 @@
 [Update]
 Name = Polared Browser
 Category = Update
-ProductVersion = 0.1.0.0
+ProductVersion = 0.1
 URL = https://cdn.glitch.me/cd014905-9bb2-450b-b361-cfa8eb18c0ee/Update_0.2.exe?v=1683856159460
 Size = 125028280
 ReleaseDate = 11/05/2023
