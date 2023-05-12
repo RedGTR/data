@@ -4,7 +4,7 @@
 Name = Polared Browser
 Category = Update
 ProductVersion = 0.2
-URL = https://store4.gofile.io/download/c617f82f-1d23-4307-806b-cda12059f528/Update_0.2.exe
+URL = https://filetransfer.io/data-package/aevN74Qf/download
 Size = 125029306
 ReleaseDate = 11/05/2023
 SHA256 = 668EABB921B1FA958813BE78604F7860B2AF8EEDB43748017E0024C22686C9C9
