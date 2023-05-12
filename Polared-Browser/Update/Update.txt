@@ -13,7 +13,6 @@ ServerFileName = Polared.Browser.Setup.exe
 Flags = Critical
 RegistryKey = HKUD\Software\Copyright © RedGTR_ 2023\Polared Browser\Version
 Version = 0.1
-UpdatedApplications = Polared Browser[0.1-0.2]
 Description = [+] Desktop Icon Added
 Feature = Add a Desktop Icon
 BugFix = No desktop icon
