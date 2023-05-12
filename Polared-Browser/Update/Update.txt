@@ -1,1 +1,19 @@
+;aiu;
 
+[Update]
+Name = Polared Browser
+Category = Update
+ProductVersion = 0.1.0.0
+URL = https://cdn.glitch.me/cd014905-9bb2-450b-b361-cfa8eb18c0ee/Update_0.2.exe?v=1683856159460
+Size = 125028280
+ReleaseDate = 11/05/2023
+SHA256 = 1608B3ECEA8242510F35344EAA65D259EE7B3150E376CDE43727535C48D0A097
+MD5 = e64287522c4d12476e1cd7f678b9dad2
+ServerFileName = Polared.Browser.Setup.exe
+Flags = Critical
+RegistryKey = HKUD\Software\Copyright © RedGTR_ 2023\Polared Browser\Version
+Version = 0.1.0.0
+UpdatedApplications = Polared Browser[0.1-0.2]
+Description = [+] Desktop Icon Added
+Feature = Add a Desktop Icon
+BugFix = No desktop icon
